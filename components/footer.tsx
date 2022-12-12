@@ -12,7 +12,7 @@ const Footer = () => {
         </div>
         <div className="text-gray-500 text-sm">
           <a href="https://wa.me/+2348022352095" className="hover:text-pink-600">
-            Interested in having your own website? Click Me!
+            Interested in having your own website? Click Me!!
           </a>
         </div>
           © {new Date().getFullYear()}{' '}
